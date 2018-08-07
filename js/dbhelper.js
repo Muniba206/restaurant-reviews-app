@@ -11,7 +11,7 @@ class DBHelper {
     const port = 5500 // Change this to your server port
     // return `http://localhost:${port}/data/restaurants.json`;
     return `data/restaurants.json`;
-    // return `https://amr-adel.github.io/fend-p6-restaurant-reviews/data/restaurants.json`;
+    // return `https://muniba206.github.io/restaurant-reviews-app/data/restaurants.json`;
   }
 
   /**
