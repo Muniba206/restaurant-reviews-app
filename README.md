@@ -27,13 +27,16 @@ Restaurant Reviews App submitted as Udacity's [Front-End Nanodegree] program.
 
 ## Live preview 
 
+https://muniba206.github.io/restaurant-reviews-app/index.html
+
 [Restaurant Reviews App Demo]
 
 OR
 
 ## Clone repository
-via `HTTPS` 
-
+via `HTTPS`
+ 
+https://github.com/Muniba206/restaurant-reviews-app.git
 
 OR 
 
